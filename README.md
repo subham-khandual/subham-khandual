@@ -123,13 +123,16 @@ Showcase of projects, skills, and professional experience.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My GitHub Journey
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SubhamKhandual007&show_icons=true&theme=radical)
+**Check out my repositories:** [GitHub Profile](https://github.com/SubhamKhandual007)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamKhandual007&theme=radical&layout=compact)
+- 🔹 **20+ Projects** spanning AI/ML, Full Stack Web, and Healthcare domains
+- 🔹 **Active Contributor** to open-source communities
+- 🔹 **Continuous Learner** exploring emerging technologies
+- 🔹 **Problem Solver** passionate about building real-world solutions
 
 </div>
 
