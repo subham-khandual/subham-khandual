@@ -15,7 +15,7 @@
 
 🎓 **B.Tech Computer Science Student** | Passionate Full Stack Developer | AI/ML Enthusiast
 
-💡 I'm a passionate software developer specializing in **artificial intelligence, machine learning, full-stack web development, and healthcare technology solutions**. With a focus on building innovative, scalable systems that solve real-world problems.
+💡 I'm a passionate software developer specializing in **artificial intelligence, machine learning, full-stack web development, and healthcare technology solutions**. With a focus on building innovative, scalable, and impactful applications that solve real-world problems.
 
 🛠 **Expertise Areas:**
 - 🏥 **Healthcare AI & Predictive Analytics** - Blood cancer prediction, health monitoring systems
@@ -127,7 +127,7 @@ Showcase of projects, skills, and professional experience.
 
 <div align="center">
 
-**Check out my repositories:** [GitHub Profile](https://github.com/SubhamKhandual007)
+**Check out my repositories:** [GitHub Profile](https://github.com/subham-khandual)
 
 - 🔹 **20+ Projects** spanning AI/ML, Full Stack Web, and Healthcare domains
 - 🔹 **Active Contributor** to open-source communities
