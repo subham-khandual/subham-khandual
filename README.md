@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1694" height="573" alt="Profile Banner" src="https://github.com/user-attachments/assets/a5a4d0a5-edfa-4d69-9cc8-502c189db445" />
+<img width="1694" height="573" alt="Profile Banner - Full Stack Developer AI/ML Enthusiast" src="https://github.com/user-attachments/assets/a5a4d0a5-edfa-4d69-9cc8-502c189db445" />
 
 
 
@@ -34,7 +34,7 @@
 
 ## 👋 About Me
 
-> *Building scalable full-stack applications with modern technology. Passionate about AI/ML, healthcare innovation, and creating solutions that make a real impact.*
+> *Building intelligent, secure, and scalable web applications with the MERN stack. Passionate about AI/ML and solving real-world problems with code, data, and creativity.*
 
 💼 **Full-Stack Developer** | React • Next.js • Node.js • TypeScript
 
@@ -213,7 +213,7 @@ Architecture: Full-Stack • Scalable Design
 |---|---|
 | 🐍 **Python** | ████████░░ 85% |
 | 🟨 **JavaScript** | ████████░░ 85% |
-| 🔵 **TypeScript** | ███████░░��� 75% |
+| 🔵 **TypeScript** | ███████░░░ 75% |
 | 🟣 **React** | ████████░░ 80% |
 | ☘️ **Node.js** | ███████░░░ 78% |
 | 🤖 **Machine Learning** | ███████░░░ 75% |
