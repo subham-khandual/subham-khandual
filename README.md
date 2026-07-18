@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1694" height="573" alt="Profile Banner" src="https://via.placeholder.com/1694x573/0d1117/58a6ff?text=Subham+Khandual+-+Full+Stack+Developer" />
+<img width="1694" height="573" alt="Profile Banner" src="https://github.com/user-attachments/assets/a5a4d0a5-edfa-4d69-9cc8-502c189db445" />
 
 
 
@@ -50,7 +50,7 @@
 
 <td width="40%" align="center">
 
-<img width="736" height="736" alt="Profile Avatar" src="https://via.placeholder.com/736x736/0d1117/58a6ff?text=Your+Photo" />
+<img width="736" height="736" alt="Profile Avatar" src="https://github.com/user-attachments/assets/28bee8e8-d4dc-4456-8779-18dd78671d33" />
 
 
 </td>
@@ -120,8 +120,8 @@
 
 </p>
 
-
 ---
+<img width="736" height="414" alt="Creative Banner" src="https://github.com/user-attachments/assets/ab9eb417-4d74-4d67-a9d7-d3957b3ed9f6" />
 
 </div>
 
