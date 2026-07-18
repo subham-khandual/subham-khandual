@@ -213,7 +213,7 @@ Architecture: Full-Stack • Scalable Design
 |---|---|
 | 🐍 **Python** | ████████░░ 85% |
 | 🟨 **JavaScript** | ████████░░ 85% |
-| 🔵 **TypeScript** | ███████░░░ 75% |
+| 🔵 **TypeScript** | ███████░░��� 75% |
 | 🟣 **React** | ████████░░ 80% |
 | ☘️ **Node.js** | ███████░░░ 78% |
 | 🤖 **Machine Learning** | ███████░░░ 75% |
@@ -238,7 +238,7 @@ Architecture: Full-Stack • Scalable Design
 
 <div align="center">
 
-![Snake animation](https://github.com/subham-khandual/subham-khandual/blob/output/github-contribution-grid-snake.svg)
+<img alt="GitHub Contribution Snake" src="https://github.com/subham-khandual/subham-khandual/raw/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
