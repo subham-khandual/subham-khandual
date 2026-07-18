@@ -193,11 +193,42 @@ Architecture: Full-Stack • Scalable Design
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subham-khandual&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=subham-khandual&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="Subham's GitHub Stats" />
+</a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subham-khandual&theme=tokyonight&hide_border=true&background=0d1117)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=subham-khandual&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subham-khandual&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+</div>
+
+---
+
+## 💻 Languages & Proficiency
+
+<div align="center">
+
+| Language | Proficiency |
+|---|---|
+| 🐍 **Python** | ████████░░ 85% |
+| 🟨 **JavaScript** | ████████░░ 85% |
+| 🔵 **TypeScript** | ███████░░░ 75% |
+| 🟣 **React** | ████████░░ 80% |
+| ☘️ **Node.js** | ███████░░░ 78% |
+| 🤖 **Machine Learning** | ███████░░░ 75% |
+
+</div>
+
+---
+
+## 📈 GitHub Streak
+
+<div align="center">
+
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img src="https://streak-stats.demolab.com?user=subham-khandual&theme=dark&hide_border=true" alt="GitHub Streak" />
+</a>
 
 </div>
 
