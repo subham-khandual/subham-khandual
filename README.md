@@ -1,26 +1,24 @@
 <div align="center">
 
-<img width="1694" height="573" alt="Profile Banner - SAYRAA AI HR Workforce - Full Stack Developer DevOps Engineer AI/ML Enthusiast" src="https://github.com/user-attachments/assets/7e8c5b9e-1a2c-4c1e-9f8e-a1d4e5f7b8c9" />
-
-
+<img width="100%" alt="Subham Khandual Full Stack Developer DevOps Engineer AI/ML Enthusiast" src="./header-banner.png" />
 
 # 🔥 Subham Khandual
 
-<div align="center">
-
 ### Full Stack Developer • AI/ML Engineer • DevOps Engineer • Healthcare Tech • Open Source
 
-<img src="https://img.shields.io/badge/Full%20Stack-Developer-3DDC84?style=for-the-badge&logo=code"/>&nbsp;
-<img src="https://img.shields.io/badge/DevOps-Engineer-FF6F00?style=for-the-badge&logo=docker"/>&nbsp;
-<img src="https://img.shields.io/badge/AI/ML-Engineer-FF6F00?style=for-the-badge&logo=tensorflow"/>&nbsp;
-<img src="https://img.shields.io/badge/Healthcare-Tech-blue?style=for-the-badge"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-3DDC84?style=for-the-badge&logo=code" alt="Subham Khandual Full Stack Developer"/>&nbsp;
+  <img src="https://img.shields.io/badge/DevOps-Engineer-FF6F00?style=for-the-badge&logo=docker" alt="Subham Khandual DevOps Engineer"/>&nbsp;
+  <img src="https://img.shields.io/badge/AI/ML-Engineer-FF6F00?style=for-the-badge&logo=tensorflow" alt="Subham Khandual AI/ML Engineer"/>&nbsp;
+  <img src="https://img.shields.io/badge/Healthcare-Tech-blue?style=for-the-badge" alt="Subham Khandual Healthcare Tech"/>
+</p>
 
-</div>
-<p>
-  <a href="https://github.com/subham-khandual"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/subham-khandual"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/subham_khandual"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:subhamkhandual007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<p align="center">
+  <a href="https://github.com/subham-khandual"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Subham Khandual GitHub" /></a>
+  <a href="https://linkedin.com/in/subham-khandual"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="Subham Khandual LinkedIn" /></a>
+  <a href="https://portfolio-nine-alpha-8nkzp7nnk6.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Subham Khandual Portfolio" /></a>
+  <a href="https://twitter.com/subham_khandual"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Subham Khandual Twitter" /></a>
+  <a href="mailto:subhamkhandual007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Subham Khandual" /></a>
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=subham-khandual&label=Profile%20Views&color=0e75b6&style=flat-square)
@@ -41,7 +39,7 @@
 
 🤖 **AI/ML Specialist** | Python • TensorFlow • Predictive Analytics
 
-🚀 **DevOps Engineer** | Docker • Kubernetes • Cloud Deployment
+🚀 **DevOps Engineer** | Docker • Kubernetes • CI/CD • Cloud Deployment
 
 🏥 **Healthcare Tech** | Medical AI • Health Monitoring • Smart Health Insights
 
@@ -53,12 +51,12 @@
 
 <td width="40%" align="center">
 
-<img width="736" height="736" alt="Profile Avatar" src="https://github.com/user-attachments/assets/28bee8e8-d4dc-4456-8779-18dd78671d33" />
-
+<img width="736" height="736" alt="Subham Khandual Avatar" src="https://github.com/user-attachments/assets/28bee8e8-d4dc-4456-8779-18dd78671d33" />
 
 </td>
 </tr>
 </table>
+
 ---
 
 ## 🎯 What I Do
@@ -79,7 +77,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,python,tensorflow,mongodb,firebase,postgres,docker,git,github,vscode,aws&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,python,tensorflow,mongodb,firebase,postgres,docker,git,github,vscode,aws&theme=dark" alt="Subham Khandual Tech Stack" />
 
 </p>
 
@@ -145,7 +143,6 @@
 
 </div>
 
-
 ---
 
 ## 🚀 Featured Projects
@@ -162,10 +159,10 @@
 
 **Tech Stack:**
 ```
-Frontend:    React • Tailwind CSS • Next.js
-Backend:     Node.js • Firebase • Firestore
-Services:    Health APIs • Real-time Updates
-Architecture: Component-based • State Management
+Frontend:     React • Tailwind CSS • Next.js
+Backend:      Node.js • Firebase • Firestore
+Services:     Health APIs • Real-time Updates
+DevOps:       Docker • GitHub Actions CI/CD
 ```
 
 **GitHub:** [Swasthya Setu Repository](https://github.com/subham-khandual/swasthya-setu)
@@ -184,13 +181,57 @@ Architecture: Component-based • State Management
 
 **Tech Stack:**
 ```
-Frontend:    React • TypeScript • Tailwind
-Backend:     Node.js • MongoDB • Express
-Services:    Geolocation • Real-time Messaging
-Architecture: Full-Stack • Scalable Design
+Frontend:     React • TypeScript • Tailwind
+Backend:      Node.js • MongoDB • Express
+Services:     Geolocation • Real-time Messaging
+DevOps:       Docker • Nginx • Cloud Hosting
 ```
 
 **GitHub:** [Suraksha Setu Repository](https://github.com/subham-khandual/suraksha-setu)
+
+---
+
+### 🤖 Sayraa AI – Healthcare & Medical Consultation Chatbot
+> Conversational clinical triage AI assistant — 24/7 symptom checking, health guidance, and medical triage
+
+**Key Features:**
+- ✅ Conversational AI Symptom Assessment
+- 🩺 Smart Medical Triage & Specialist Routing
+- 💊 Preventive Health Advice & Insights
+- 🚨 Immediate Critical Emergency Warning Alerts
+- 🔒 HIPAA-Conscious Data Privacy & Security
+
+**Tech Stack:**
+```
+Frontend:     React • Next.js • Tailwind CSS
+Backend:      Python • FastAPI • Node.js
+AI / Models:  TensorFlow • PyTorch • NLP Transformers
+DevOps:       Docker • Redis Caching • AWS Cloud
+```
+
+**GitHub:** [Sayraa AI Healthcare Assistant](https://github.com/subham-khandual/sayraa-ai-healthcare-chatbot)
+
+---
+
+### 🎓 EduSkill Chatbot – AI Educational & Skill Development Mentor
+> Interactive AI learning assistant — personalized skill pathways, code mentoring, and student guidance
+
+**Key Features:**
+- ✅ Interactive Skill Evaluations & Quizzes
+- 🗺️ Algorithmic Career & Learning Roadmaps
+- 💡 Real-time Code & Concept Explanations
+- 📈 Student Progress Tracking Dashboard
+- 🤖 Context-Aware Conversational AI
+
+**Tech Stack:**
+```
+Frontend:     React • Next.js • Tailwind CSS
+Backend:      Node.js • Express • Python
+AI / Engine:  NLP • LangChain • LLM APIs
+DevOps:       Docker • CI/CD Deployment
+```
+
+**GitHub:** [EduSkill Chatbot Repository](https://github.com/subham-khandual/eduskill-chatbot)
 
 ---
 
@@ -208,17 +249,16 @@ Architecture: Full-Stack • Scalable Design
 
 ---
 
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=subham-khandual&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="Subham's GitHub Stats" />
+<a href="https://github.com/subham-khandual">
+  <img src="https://github-stats-extended.vercel.app/api?username=subham-khandual&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="Subham's GitHub Stats" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=subham-khandual&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+<a href="https://github.com/subham-khandual">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=subham-khandual&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </a>
 
 </div>
@@ -253,15 +293,6 @@ Architecture: Full-Stack • Scalable Design
 
 </div>
 
----
-
-## 🐍 GitHub Contributions Heatmap
-
-<div align="center">
-
-<img alt="GitHub Contribution Snake" src="https://github.com/subham-khandual/subham-khandual/raw/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
 
 ---
 
@@ -269,7 +300,8 @@ Architecture: Full-Stack • Scalable Design
 
 | Achievement | Description | Year |
 |---|---|---|
-| 🌟 **Healthcare AI Projects** | Blood cancer prediction & health monitoring systems | 2024 |
+| 🌟 **Healthcare AI Projects** | Blood cancer prediction, Sayraa AI & Swasthya Setu | 2024 |
+| 🔒 **Safety Tech Systems** | Suraksha Setu real-time community protection | 2024 |
 | 🏅 **Agri-Tech Innovation** | Smart crop recommendation system for farmers | 2024 |
 | 🚀 **DevOps & Cloud Solutions** | Containerized applications & CI/CD pipeline deployment | 2024 |
 | 💼 **Full-Stack Developer** | 20+ repositories with scalable applications | 2024 |
@@ -311,8 +343,6 @@ I'm always excited to discuss:
 </div>
 
 ---
-
-
 
 ## 📈 My Development Philosophy
 
