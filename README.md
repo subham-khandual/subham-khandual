@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1694" height="573" alt="Profile Banner - Full Stack Developer AI/ML Enthusiast" src="https://github.com/user-attachments/assets/a5a4d0a5-edfa-4d69-9cc8-502c189db445" />
+<img width="1694" height="573" alt="Profile Banner - SAYRAA AI HR Workforce - Full Stack Developer DevOps Engineer AI/ML Enthusiast" src="https://github.com/user-attachments/assets/7e8c5b9e-1a2c-4c1e-9f8e-a1d4e5f7b8c9" />
 
 
 
@@ -8,9 +8,10 @@
 
 <div align="center">
 
-### Full Stack Developer • AI/ML Engineer • Healthcare Tech • Open Source
+### Full Stack Developer • AI/ML Engineer • DevOps Engineer • Healthcare Tech • Open Source
 
 <img src="https://img.shields.io/badge/Full%20Stack-Developer-3DDC84?style=for-the-badge&logo=code"/>&nbsp;
+<img src="https://img.shields.io/badge/DevOps-Engineer-FF6F00?style=for-the-badge&logo=docker"/>&nbsp;
 <img src="https://img.shields.io/badge/AI/ML-Engineer-FF6F00?style=for-the-badge&logo=tensorflow"/>&nbsp;
 <img src="https://img.shields.io/badge/Healthcare-Tech-blue?style=for-the-badge"/>
 
@@ -34,17 +35,19 @@
 
 ## 👋 About Me
 
-> *Building intelligent, secure, and scalable web applications with the MERN stack. Passionate about AI/ML and solving real-world problems with code, data, and creativity.*
+> *Building intelligent, secure, and scalable web applications with the MERN stack. Passionate about AI/ML, DevOps practices, and solving real-world problems with code, data, and creativity.*
 
 💼 **Full-Stack Developer** | React • Next.js • Node.js • TypeScript
 
 🤖 **AI/ML Specialist** | Python • TensorFlow • Predictive Analytics
 
+🚀 **DevOps Engineer** | Docker • Kubernetes • Cloud Deployment
+
 🏥 **Healthcare Tech** | Medical AI • Health Monitoring • Smart Health Insights
 
 🌾 **Agri-Tech Innovation** | Crop ML Systems • Environmental Solutions
 
-🚀 **Open Source Advocate** | Contributing & Building Community Projects
+🔒 **Open Source Advocate** | Contributing & Building Community Projects
 
 </td>
 
@@ -64,6 +67,7 @@
 - 🤖 Build **intelligent AI/ML systems** for healthcare, agriculture & business
 - 📱 Create **responsive web experiences** with React, Next.js & TypeScript
 - ⚙️ Develop **robust backend systems** with Node.js & Firebase
+- 🐳 Implement **DevOps solutions** with Docker, Kubernetes & CI/CD pipelines
 - 🔐 Implement **secure solutions** with best practices & scalability
 - 🌍 Contribute to **open-source projects** and community initiatives
 
@@ -108,6 +112,21 @@
 
 ---
 
+## 🐳 DevOps & Cloud
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI/CD-00A9CE?style=for-the-badge&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+</p>
+
+---
+
 ## 🧠 Core Competencies
 
 <p align="center">
@@ -116,6 +135,7 @@
 <img src="https://img.shields.io/badge/Algorithms-2196F3?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/System_Design-9C27B0?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DevOps-FF6B6B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DBMS-607D8B?style=for-the-badge"/>
 
 </p>
@@ -217,6 +237,7 @@ Architecture: Full-Stack • Scalable Design
 | 🟣 **React** | ████████░░ 80% |
 | ☘️ **Node.js** | ███████░░░ 78% |
 | 🤖 **Machine Learning** | ███████░░░ 75% |
+| 🐳 **DevOps/Docker** | ███████░░░ 78% |
 
 </div>
 
@@ -250,6 +271,7 @@ Architecture: Full-Stack • Scalable Design
 |---|---|---|
 | 🌟 **Healthcare AI Projects** | Blood cancer prediction & health monitoring systems | 2024 |
 | 🏅 **Agri-Tech Innovation** | Smart crop recommendation system for farmers | 2024 |
+| 🚀 **DevOps & Cloud Solutions** | Containerized applications & CI/CD pipeline deployment | 2024 |
 | 💼 **Full-Stack Developer** | 20+ repositories with scalable applications | 2024 |
 | 🎓 **Continuous Learning** | Advanced ML, System Design & Cloud Technologies | 2024 |
 
@@ -261,6 +283,7 @@ Architecture: Full-Stack • Scalable Design
 ✅ System Design & Architecture  
 ✅ Cloud Technologies (AWS, GCP)  
 ✅ DevOps & Containerization  
+✅ Kubernetes Orchestration  
 ✅ Next-gen Web Frameworks  
 
 ---
@@ -270,6 +293,7 @@ Architecture: Full-Stack • Scalable Design
 I'm always excited to discuss:
 - 🚀 Innovative full-stack development
 - 🤖 AI/ML applications & healthcare tech
+- 🐳 DevOps practices & cloud architecture
 - 💡 Open-source contributions
 - 🌾 Agriculture & sustainability projects
 - 🤝 Freelance opportunities & collaborations
