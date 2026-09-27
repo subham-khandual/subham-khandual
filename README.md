@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="Subham Khandual Full Stack Developer DevOps Engineer AI/ML Enthusiast" src="./header-banner.png" />
+<img width="100%" alt="Subham Khandual Full Stack Developer DevOps Engineer AI/ML Enthusiast" src="https://iili.io/n5Odbtf.jpg" />
 
 # 🔥 Subham Khandual
 
