@@ -7,7 +7,6 @@
 <div align="center">
   
   
-### Full Stack Developer • AI/ML Engineer • DevOps Engineer • Healthcare Tech • Open Source
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-3DDC84?style=for-the-badge&logo=code" alt="subham-khandual Full Stack Developer"/>&nbsp;
