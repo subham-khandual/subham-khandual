@@ -18,7 +18,7 @@
   <a href="https://linkedin.com/in/subham-khandual"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="subham-khandual LinkedIn" /></a>
   <a href="https://portfolio-nine-alpha-8nkzp7nnk6.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="subham-khandual Portfolio" /></a>
   <a href="https://twitter.com/subham_khandual"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="subham-khandual Twitter" /></a>
-  <a href="mailto:subhamkhandual007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email subham-khandual" /></a>
+  <a href="mailto:subhamkhandual215@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email subham-khandual" /></a>
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=subham-khandual&label=Profile%20Views&color=0e75b6&style=flat-square)
@@ -254,7 +254,7 @@ DevOps:       Docker • CI/CD Deployment
 <div align="center">
 
 <a href="https://github.com/subham-khandual">
-  <img src="https://github-stats-extended.vercel.app/api?username=subham-khandual&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="subham-khandual GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=subham-khandual&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="Subham's GitHub Stats" />
 </a>
 
 <a href="https://github.com/subham-khandual">
@@ -292,7 +292,6 @@ DevOps:       Docker • CI/CD Deployment
 </a>
 
 </div>
-
 
 ---
 
@@ -335,7 +334,7 @@ I'm always excited to discuss:
 ### 📞 Get In Touch
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github)](https://github.com/subham-khandual)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:subhamkhandual007@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:subhamkhandual215@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/subham-khandual)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/subham_khandual)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-000000?style=for-the-badge&logo=About.me)](https://portfolio-nine-alpha-8nkzp7nnk6.vercel.app)
