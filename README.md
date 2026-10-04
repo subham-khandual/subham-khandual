@@ -1,24 +1,24 @@
 <div align="center">
 
-<img width="100%" alt="Subham Khandual Full Stack Developer DevOps Engineer AI/ML Enthusiast" src="https://iili.io/n5Odbtf.jpg" />
+<img width="100%" alt="subham-khandual Full Stack Developer DevOps Engineer AI/ML Enthusiast" src="https://iili.io/n5Odbtf.jpg" />
 
-# 🔥 Subham Khandual
+# 🔥 subham-khandual
 
 ### Full Stack Developer • AI/ML Engineer • DevOps Engineer • Healthcare Tech • Open Source
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-3DDC84?style=for-the-badge&logo=code" alt="Subham Khandual Full Stack Developer"/>&nbsp;
-  <img src="https://img.shields.io/badge/DevOps-Engineer-FF6F00?style=for-the-badge&logo=docker" alt="Subham Khandual DevOps Engineer"/>&nbsp;
-  <img src="https://img.shields.io/badge/AI/ML-Engineer-FF6F00?style=for-the-badge&logo=tensorflow" alt="Subham Khandual AI/ML Engineer"/>&nbsp;
-  <img src="https://img.shields.io/badge/Healthcare-Tech-blue?style=for-the-badge" alt="Subham Khandual Healthcare Tech"/>
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-3DDC84?style=for-the-badge&logo=code" alt="subham-khandual Full Stack Developer"/>&nbsp;
+  <img src="https://img.shields.io/badge/DevOps-Engineer-FF6F00?style=for-the-badge&logo=docker" alt="subham-khandual DevOps Engineer"/>&nbsp;
+  <img src="https://img.shields.io/badge/AI/ML-Engineer-FF6F00?style=for-the-badge&logo=tensorflow" alt="subham-khandual AI/ML Engineer"/>&nbsp;
+  <img src="https://img.shields.io/badge/Healthcare-Tech-blue?style=for-the-badge" alt="subham-khandual Healthcare Tech"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/subham-khandual"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Subham Khandual GitHub" /></a>
-  <a href="https://linkedin.com/in/subham-khandual"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="Subham Khandual LinkedIn" /></a>
-  <a href="https://portfolio-nine-alpha-8nkzp7nnk6.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Subham Khandual Portfolio" /></a>
-  <a href="https://twitter.com/subham_khandual"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Subham Khandual Twitter" /></a>
-  <a href="mailto:subhamkhandual007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Subham Khandual" /></a>
+  <a href="https://github.com/subham-khandual"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="subham-khandual GitHub" /></a>
+  <a href="https://linkedin.com/in/subham-khandual"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="subham-khandual LinkedIn" /></a>
+  <a href="https://portfolio-nine-alpha-8nkzp7nnk6.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="subham-khandual Portfolio" /></a>
+  <a href="https://twitter.com/subham_khandual"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="subham-khandual Twitter" /></a>
+  <a href="mailto:subhamkhandual007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email subham-khandual" /></a>
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=subham-khandual&label=Profile%20Views&color=0e75b6&style=flat-square)
@@ -51,7 +51,7 @@
 
 <td width="40%" align="center">
 
-<img width="736" height="736" alt="Subham Khandual Avatar" src="https://github.com/user-attachments/assets/28bee8e8-d4dc-4456-8779-18dd78671d33" />
+<img width="736" height="736" alt="subham-khandual Avatar" src="https://github.com/user-attachments/assets/28bee8e8-d4dc-4456-8779-18dd78671d33" />
 
 </td>
 </tr>
@@ -77,7 +77,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,python,tensorflow,mongodb,firebase,postgres,docker,git,github,vscode,aws&theme=dark" alt="Subham Khandual Tech Stack" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,python,tensorflow,mongodb,firebase,postgres,docker,git,github,vscode,aws&theme=dark" alt="subham-khandual Tech Stack" />
 
 </p>
 
@@ -254,7 +254,7 @@ DevOps:       Docker • CI/CD Deployment
 <div align="center">
 
 <a href="https://github.com/subham-khandual">
-  <img src="https://github-stats-extended.vercel.app/api?username=subham-khandual&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="Subham's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=subham-khandual&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="subham-khandual GitHub Stats" />
 </a>
 
 <a href="https://github.com/subham-khandual">
@@ -365,7 +365,7 @@ Quality Code → Innovation → User Experience → Continuous Growth
 
 ---
 
-**Made with ❤️ by Subham Khandual**
+**Made with ❤️ by subham-khandual**
 
 ![Wave](https://img.shields.io/badge/Made%20with%20❤️%20in%20India-FF69B4?style=flat)
 
