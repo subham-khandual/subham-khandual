@@ -359,12 +359,13 @@ Quality Code → Innovation → User Experience → Continuous Growth
 <div align="center">
 
 ### ⚡ Code • Build • Learn • Innovate ⚡
+**Subham Khandual - Full Stack Developer from Bhubaneswar, Odisha, India**
 
 **"The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt**
 
 ---
 
-**Made with ❤️ by subham-khandual**
+**Made with ❤️ by Subham Khandual | Bhubaneswar, Odisha, India**
 
 ![Wave](https://img.shields.io/badge/Made%20with%20❤️%20in%20India-FF69B4?style=flat)
 
