@@ -1,5 +1,5 @@
-<div align="center">
-    <h1>Subham Khandual - Full Stack Developer</h1>
+<h1><div align="center"></h1>
+    <h2>Subham Khandual - Full Stack Developer</h2>
   <p>Full Stack Developer • AI/ML Engineer • DevOps Engineer from Bhubaneswar, Odisha, India</p>
 
 <img width="100%" alt="subham khandual Full Stack Developer DevOps Engineer AI/ML Enthusiast" src="https://iili.io/n5Odbtf.jpg" />
