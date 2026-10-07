@@ -332,7 +332,11 @@ I'm always excited to discuss:
 - 🤝 Freelance opportunities & collaborations
 
 <div align="center">
+This is the official GitHub account of **Subham Khandual**. If you searched "Subham Khandual GitHub account" or "Subham Khandual GitHub" on Google, you are at the right place.
 
+- **Name:** Subham Khandual
+- **GitHub Username:** @subham-khandual
+- **GitHub URL:** https://github.com/subham-khandual
 ### 📞 Get In Touch
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github)](https://github.com/subham-khandual)
